@@ -34,7 +34,7 @@ As part of the backend development team for a new user management system, you ne
     - Return a `201` status code with a success message.
 
 ## Error Handling:
-
+  
 - Implement proper error handling for:
   - Database connection issues.
   - User data validation process.
